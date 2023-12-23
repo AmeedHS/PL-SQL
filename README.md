@@ -8,13 +8,10 @@ Welcome to my GitHub repository! 👋 I'm Ameed Shaikh, a passionate individual 
 
 Here, you'll find a collection of projects that demonstrate my skills and experiences in the realm of data analytics and database development. Each project is meticulously crafted to showcase my proficiency in leveraging SQL and PL/SQL for effective data manipulation and analysis.
 
-#### Example Project 1: [Project Name]
-- Description: Brief description of the project, outlining its purpose and goals.
-- Technologies Used: SQL, PL/SQL, [other relevant technologies]
-
-#### Example Project 2: [Project Name]
-- Description: Brief description of the project, outlining its purpose and goals.
-- Technologies Used: SQL, PL/SQL, [other relevant technologies]
+#### Project 1: Parking Management System
+- Description: The Parking Management System is a comprehensive solution designed to facilitate the management of parking spaces, sessions, and customer interactions. This system encompasses various features to cater to the needs of both parking administrators and customers.
+-  Usage: To use the Parking Management System, follow the provided SQL scripts to set up the necessary database tables and procedures. Ensure that you have the required database privileges and connectivity. Test the system with the provided sample data and adapt it to your specific use case.
+- Technologies Used: SQL, PL/SQL
 
 ### Skills
 
